@@ -1,1 +1,1 @@
-print("Hello, world! This is my first real Git project.")
+print("Updated: My first GitHub-pushed project in VS Code!")
